@@ -1,1 +1,1 @@
-This repo contains my work on Machine learning and Data Pre-processing.
+Welcome to my Repo, here you will find my work on Machine learning models, Recommendation system and some advanced SQL queries.
