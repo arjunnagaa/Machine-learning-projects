@@ -2,4 +2,4 @@
 assistance of surprise library and SVD Matrix Factorization
 
 ● Trained various models and used the result of each model as feature to the next model with the final
-model as XGBRegressor to reduce RMSE.
+model as XGBRegressor to reduce  RMSE.
