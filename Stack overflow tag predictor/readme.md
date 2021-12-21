@@ -5,4 +5,4 @@ website.
 IDF Vectorizer of tri-gram parameter.
 
 ● Applied OnevsRest Classifier with Logistic Regression and SVM along with Random Search hyper-
-parameter tuning to improve micro-averaged-f1-score.
+parameter tuning to improve micro-averaged-f1-score .
