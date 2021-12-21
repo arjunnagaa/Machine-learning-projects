@@ -1,10 +1,8 @@
 ● Implemented a machine learning model to categorize the customer reviews on various food products
-into positive and negative reviews on amazon food review dataset.
+into positive and negative reviews on the amazon food review dataset retrieved from kaggle (https://www.kaggle.com/snap/amazon-fine-food-reviews)
+
+● Data preparation: Used Word2Vec on the text data to convert it to vectors and and One-Hot encoding on categorical data in order to make my datasert fit for input in different models.
 
 
-● Used multiple feature engineering techniques like TF-IDF, Bag of Words and Word2Vec on the text
-data and One-Hot encoding on categorical data.
-
-
-● Tried different classification algorithms like logistic regression, KNN, random forest with hyper
+● Tried the following classification algorithms: logistic regression, KNN, random forest with hyper
 parameter tuning to get the best model fit.
